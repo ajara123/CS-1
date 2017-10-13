@@ -1,3 +1,13 @@
+#Exercise 4
+
+
+#Add code to the above program to figure out who has the most messages in the file.
+#After all the data has been read and the dictionary has been created, 
+#look through the dictionary using a maximum loop (see Section [maximumloop]) to find who has the most messages 
+#and print how many messages the person has.
+
+
+
 fname=input('Enter a file name: ')
 fhand=open(fname)
 counts=dict()
